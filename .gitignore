@@ -1,0 +1,14 @@
+# Secrets — never commit
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Runtime artifacts
+*.db
+
+# OS / editor
+.DS_Store
